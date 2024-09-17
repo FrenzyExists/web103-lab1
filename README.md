@@ -1,4 +1,4 @@
-Lab #1: UnEarthed, Part 1
+# Lab #1: UnEarthed, Part 1
 
 ## 🎯 Goals
 By the end of this lab you will be able to...
